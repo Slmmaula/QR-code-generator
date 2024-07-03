@@ -5,7 +5,7 @@ A simple application to create and download QR Codes based on the text or URL in
 
 ## Live Demo
 
-Visit the following link to view the [Live Demo](https://slmmaula.vercel.app)
+Visit the following link to view the [Live Demo](https://slmmaula-qr-code-generator.vercel.app)
 
 
 ## Getting Started
