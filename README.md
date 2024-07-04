@@ -21,13 +21,13 @@ Before you begin, ensure you have met the following requirements:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Slmmaula/QR-code-generator.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd QR-code-generator
 ```
 
 Install dependencies
